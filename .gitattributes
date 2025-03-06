@@ -1,1 +1,5 @@
 *.json linguist-vendored
+*.dll linguist-vendored
+*.exe linguist-vendored
+*.pdb linguist-vendored
+*.db linguist-vendored
